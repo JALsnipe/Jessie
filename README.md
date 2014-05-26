@@ -10,6 +10,6 @@ Ex:
 ➜  Jessie  python jessie.py
 Usage: python jesse.py [image to upload]
 
-➜  jessie  python jessie.py jessie.gif
+➜  Jessie  python jessie.py jessie.gif
 http://gfycat.com/FearfulUniqueAfricanclawedfrog
 ```
