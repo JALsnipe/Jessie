@@ -35,6 +35,7 @@ except ValueError, e:
 	sys.exit()
 except requests.exceptions.HTTPError:
 	# print "Error: check your CLIENT_ID"
+	print "Bad request, check your image or Client ID."
 	sys.exit()
 except IOError:
 	print "No such file: " + sys.argv[1]
